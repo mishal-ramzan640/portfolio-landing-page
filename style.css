@@ -22,6 +22,11 @@ h1{
   font-size: 48px;
   margin-bottom: 20px;
 }
+h2{
+  font-family: 'oswald', sans-serif;
+  font-size: 30px;
+  margin-bottom: 15px;
+}
 p{
   max-width: 700px;
   line-height: 1.6;
